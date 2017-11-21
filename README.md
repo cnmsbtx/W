@@ -43,5 +43,7 @@ ls is  a duli
 <body>
 <div id="id1" class="classA">Welcome back to my site</div>
 <input type="button" id="btn1" value="Toggle">
+<button></button>
 </body>
+
 </html>
